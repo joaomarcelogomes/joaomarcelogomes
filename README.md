@@ -15,7 +15,7 @@ I'm João Marcelo, Back-End Development Student at Birigui - Brazil
 
   <h3>Connect with me <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" height="32px"/> </h3>
  
- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram,com/joaomarcelogomes_)](https://instagram.com/joaomarcelogomes_)
+ [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/jmarcelogomes_)](https://instagram.com/jmarcelogomes_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/joaomarcelosgomes)](https://linkedin.com/in/joaomarcelosgomes)
 
 
