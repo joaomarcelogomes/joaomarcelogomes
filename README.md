@@ -1,7 +1,7 @@
 
 <h3 align="center"> Hi There, welcome to my profile! 👋 </h3>
 <hr/>
-<p> I'm João Marcelo, a Back-End Development Student at Brazil </p>
+<p> I'm João Marcelo, a Software Engineering student at Brazil </p>
 
 - 🧑‍🎓 I'm majoring in Software Engineering at UNOESTE (Universidade do Oeste Paulista)
 - 👊 Here you're going to see my progress through my developed projects
