@@ -5,7 +5,7 @@
 
 - 🧑‍🎓 I'm majoring in Software Engineering at UNOESTE (Universidade do Oeste Paulista)
 - 👊 Here you're going to see my progress through my developed projects
-- 💻 I am constantly studying and practicing Back-end development tools.
+- 💻 Actually, studying Android development with Java & Kotlin.
 - 🗣️ I can speak: English and Portuguese
 - 😄 My pronouns are: He/Him
 - 💻 Technologies:
