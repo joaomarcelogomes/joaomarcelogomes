@@ -1,19 +1,53 @@
+## Hey, welcome to my profile! :wave:
 
-<h3 align="center"> Hi There, welcome to my profile! 👋 </h3>
-<hr/>
-<p> I'm João Marcelo, a Software Engineering student and Backend developer from Brazil </p>
+### $ whoami
+I'm João Marcelo, 19 years old, back-end developer and a Frosted Flakes lover. 
+I'm from Birigui, a city in the interior of São Paulo, Brazil. I'm a PHP Evangelist and Software Development student. 
 
-- 🧑‍🎓 I'm majoring in Software Engineering at UNOESTE (Universidade do Oeste Paulista)
-- 👊 Here you're going to see my progress through my developed projects
-- 🗣️ I can speak: English and Portuguese
-- 😄 My pronouns are: He/Him
- <p>  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> <img src"https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> </p> 
+Here, you're going to find some of my studies and personal projects - feel free to comment on anything that you find helpful and useful.
 
-![João Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomarcelogomes&show_icons=true&theme=midnight-purple&hide_border=true)
+<div>
+  <img src="https://media2.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e477uuuoflc7z6t6t1ilrqrhoynxhbct77955nyn7yx&rid=giphy.gif&ct=g" width="200" height="200"/>
+</div>
 
-  <h3>Connect with me <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" height="32px"/> </h3>
- 
- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/jmarcelogomes_)](https://instagram.com/jmarcelogomes_)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/joaomarcelosgomes)](https://linkedin.com/in/joaomarcelosgomes)
+#### techs that you will probably find in my repositories
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/> 
+
+#### contact me, if you want!
+
+-- some of my social media --
+<div>
+ <a href="https://www.linkedin.com/in/joaomarcelosgomes/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ <a href="https://twitter.com/joaomgomes_">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+ </a>
+</div>
+
+#### github stats 
+
+![João Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomarcelogomes&show_icons=false&theme=dracula&count_private=true&hide_border=true)
+
+<details>
+  <summary>📃 Resume</summary>
 
 
+## Education
+
+- 📖 **Software Engineering**\
+📆 2021 - moment\
+📍 <a href="https://www.unoeste.br/">**UNOESTE**</a> - Presidente Prudente, Brazil
+
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="80"/>
+<img align="right" src="https://img.shields.io/badge/Lumen-f56942?style=for-the-badge&logo=lumen&logoColor=white" width="80"/>
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="64"/>
+
+- 👨‍💻 **Back end developer**\
+📆 2022 - moment\
+📍 <a href="https://www.webart.com.br/">**web.art group**</a> - Birigui/SP, Brazil
+
+</details>
