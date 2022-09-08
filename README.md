@@ -12,7 +12,12 @@ Here, you're going to find some of my studies and personal projects - feel free 
 
 #### techs that you will probably find in my repositories
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![lumen](https://img.shields.io/badge/Lumen-e74430?style=for-the-badge&logo=lumen&logoColor=dee0df)
+![shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 #### contact me, if you want!
 
@@ -43,7 +48,7 @@ Here, you're going to find some of my studies and personal projects - feel free 
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="80"/>
-<img align="right" src="https://img.shields.io/badge/Lumen-f56942?style=for-the-badge&logo=lumen&logoColor=white" width="80"/>
+<img align="right" src="https://img.shields.io/badge/Lumen-e74430?style=for-the-badge&logo=lumen&logoColor=dee0df" width="80"/>
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="64"/>
 
 - 👨‍💻 **Back end developer**\
