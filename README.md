@@ -1,7 +1,7 @@
 ## Hey, welcome to my profile! :wave:
 
 ### $ whoami
-I'm João Marcelo, 19 years old, back-end developer, sotware development student and a Frosted Flakes lover. 
+I'm João Marcelo, 20 years old, back-end developer, sotware development student and a Frosted Flakes lover. 
 I'm from Birigui, a city in the interior of São Paulo, Brazil.
 
 Here, you're going to find some of my studies and personal projects - feel free to comment on anything that you find helpful and useful.
