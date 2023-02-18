@@ -53,6 +53,6 @@ Here, you're going to find some of my studies and personal projects - feel free 
 
 - 👨‍💻 **Back end developer**\
 📆 2022 - moment\
-📍 <a href="https://www.webart.com.br/">**web.art group**</a> - Birigui/SP, Brazil
+📍 <a href="https://www.wapstore.com.br/">**wap.store**</a> - Birigui/SP, Brazil
 
 </details>
