@@ -45,9 +45,9 @@ Here, you're going to find some of my studies and personal projects - feel free 
 
 ## Education
 
-- 📖 **Software Engineering**\
-📆 2021 - moment\
-📍 <a href="https://www.unoeste.br/">**UNOESTE**</a> - Presidente Prudente, Brazil
+- 📖 **Computer Engineering**\
+📆 2023 - moment\
+📍 <a href="[https://www.unoeste.br/](https://univesp.br/)">**Universidade Virtual do Estado de São Paulo**</a>
 
 ## Experience
 
