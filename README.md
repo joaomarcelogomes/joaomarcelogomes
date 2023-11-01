@@ -47,7 +47,7 @@ Here, you're going to find some of my studies and personal projects - feel free 
 
 - 📖 **Computer Engineering**\
 📆 2023 - moment\
-📍 <a href="[https://www.unoeste.br/](https://univesp.br/)">**Universidade Virtual do Estado de São Paulo**</a>
+📍 <a href="https://univesp.br">**Universidade Virtual do Estado de São Paulo**</a>
 
 ## Experience
 
